@@ -6,7 +6,8 @@
 ## ✨ About Me  
 
 - 🎓 **Recent Computer Science Graduate** from MVJ College of Engineering, Bangalore (CGPA: 7.8)  
-- 💼 Hands-on experience as **Software Developer Intern @ Dotch Endeavours** & **AWS Cloud Intern @ Skill Forge**  
+- 💼 Hands-on experience as **Software Developer Intern @ Dotch Endeavours** & **AWS Cloud Intern @ Skill Forge**
+- 👨‍💻 All of my projects are available at https://s-sinchana-portfolio.vercel.app/
 - 🌱 Currently learning & exploring **Cloud, DevOps, and AI integration**  
 - 🤝 Open to **collaborations on open-source projects & exciting opportunities**  
 
