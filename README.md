@@ -9,7 +9,8 @@
 - 💼 Hands-on experience as **Software Developer Intern @ Dotch Endeavours** & **AWS Cloud Intern @ Skill Forge**
 - 👨‍💻 All of my projects are available at https://s-sinchana-portfolio.vercel.app/
 - 🌱 Currently learning & exploring **Cloud, DevOps, and AI integration**  
-- 🤝 Open to **collaborations on open-source projects & exciting opportunities**  
+- 🤝 Open to **collaborations on open-source projects & exciting opportunities**
+- 📄 [View My Résumé](https://drive.google.com/file/d/1iNxFV-pHwx8qYB0ussDh6H0qvExEkK77/view?usp=sharing)
 
 ---
 
